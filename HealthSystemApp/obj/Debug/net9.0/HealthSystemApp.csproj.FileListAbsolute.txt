@@ -1,0 +1,15 @@
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.exe
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.deps.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.runtimeconfig.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\bin\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfoInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.AssemblyInfo.cs
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.sourcelink.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\refint\HealthSystemApp.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\HealthSystemApp.genruntimeconfig.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\HealthSystemApp\obj\Debug\net9.0\ref\HealthSystemApp.dll
