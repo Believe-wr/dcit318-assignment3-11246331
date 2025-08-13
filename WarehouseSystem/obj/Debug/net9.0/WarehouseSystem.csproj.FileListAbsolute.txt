@@ -1,0 +1,15 @@
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.exe
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.deps.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.runtimeconfig.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\bin\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfoInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.AssemblyInfo.cs
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.csproj.CoreCompileInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.sourcelink.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\refint\WarehouseSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\WarehouseSystem.genruntimeconfig.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\WarehouseSystem\obj\Debug\net9.0\ref\WarehouseSystem.dll
