@@ -12,7 +12,7 @@ namespace StudentGradingSystem
 
             using (StreamReader reader = new StreamReader(inputFilePath))
             {
-                string line;
+                string? line; // Nullable to avoid warning
                 int lineNumber = 1;
 
                 while ((line = reader.ReadLine()) != null)
@@ -52,3 +52,4 @@ namespace StudentGradingSystem
         }
     }
 }
+

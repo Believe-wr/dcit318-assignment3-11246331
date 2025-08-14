@@ -1,0 +1,15 @@
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.exe
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.deps.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.sourcelink.json
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\refint\SchoolGradingSystem.dll
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\bely7\OneDrive\Desktop\Files\DCIT318 Assignment\dcit318-assignment3-11246331\SchoolGradingSystem\obj\Debug\net9.0\ref\SchoolGradingSystem.dll
